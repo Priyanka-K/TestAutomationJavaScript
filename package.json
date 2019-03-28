@@ -1,0 +1,24 @@
+{
+  "name": "ethocatest",
+  "version": "1.0.0",
+  "description": "Ethoca Automation Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/wdio wdio.conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "*",
+    "chromedriver": "^2.46.0",
+    "mocha": "*",
+    "webdriverio": "^4.14.0"
+  },
+  "devDependencies": {
+    "@wdio/mocha-framework": "^5.7.6",
+    "chance": "^1.0.4",
+    "selenium-standalone": "^6.16.0",
+    "wdio-mocha-framework": "^0.5.8",
+    "wdio-selenium-standalone-service": "0.0.12"
+  }
+}
