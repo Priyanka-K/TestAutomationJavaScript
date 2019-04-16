@@ -1,4 +1,4 @@
-# Coding Challenge Ethoca - WebdriverIO & Mocha Framework
+# AutomationPractice.com - WebdriverIO & Mocha Framework
 
 ## Pre-requistes:
 Have NODEJS version 7.5 and up installed on your machine
