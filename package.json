@@ -1,7 +1,7 @@
 {
-  "name": "ethocatest",
+  "name": "AutoRepo",
   "version": "1.0.0",
-  "description": "Ethoca Automation Challenge",
+  "description": "Automation Challenge",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/wdio wdio.conf.js"
@@ -19,6 +19,7 @@
     "chance": "^1.0.4",
     "selenium-standalone": "^6.16.0",
     "wdio-mocha-framework": "^0.5.8",
-    "wdio-selenium-standalone-service": "0.0.12"
+    "wdio-selenium-standalone-service": "0.0.12",
+    "webdriver": "^5.7.6"
   }
 }
